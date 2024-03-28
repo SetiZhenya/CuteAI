@@ -1,5 +1,5 @@
 {
-    "masterVersionFile":"https://raw.githubusercontent.com/SetiZhenya/CuteAI/CuteAI.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/SetiZhenya/CuteAI/main/CuteAI.version",
     "modName":"Marvelous Personas",
     "modThreadId":28530,
     "modVersion":
@@ -8,5 +8,5 @@
         "minor":0,
         "patch":"0"
     },
-    "changelogURL":"https://raw.githubusercontent.com/CaptainDingaling/CuteAI/changelog.txt"
+    "changelogURL":"https://raw.githubusercontent.com/CaptainDingaling/CuteAI/main/changelog.txt"
 }
